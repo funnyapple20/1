@@ -4,7 +4,10 @@ import json
 while(True):
   headers = {
       "Content-Type": "application/json",
-      "Authorization": "Bearer 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"
+      "Authorization": "Bearer sk
+-INbYn7cEB
+SnU0vydXrRKT3BlbkFJ
+WzTi4Hph3EkmbPtIZKTl "
   }
 
   data = {
